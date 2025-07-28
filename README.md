@@ -144,5 +144,8 @@ timeline
     2023 : Architecture & Design
          : Mentoring Junior Developers
     
-    2024 : Current Position
+    2024 : Architecture & Design
+         : Leading Development Teams
+
+    2025 : Current Position
          : Leading Development Teams
